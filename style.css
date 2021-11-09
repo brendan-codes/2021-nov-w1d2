@@ -1,0 +1,14 @@
+h1, img {
+    color: whitesmoke;
+    background-color: dodgerblue;
+    border: 5px solid red;
+    /* display: inline-block; */
+    display: block;
+    margin: 20px;
+    padding: 10px;
+}
+
+.special {
+    background-color: orangered;
+    border: 5px solid black;
+}
