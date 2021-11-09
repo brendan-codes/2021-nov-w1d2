@@ -1,7 +1,7 @@
 h1, img {
     color: whitesmoke;
     background-color: dodgerblue;
-    border: 5px solid red;
+    border: 5px solid grey;
     /* display: inline-block; */
     display: block;
     margin: 20px;
